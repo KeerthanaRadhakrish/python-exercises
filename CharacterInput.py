@@ -7,6 +7,3 @@ years=100-age
 print("In",years,"years, you will be 100 years old",name)
 
 
-
-
-
